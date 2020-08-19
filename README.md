@@ -15,4 +15,4 @@ I'm interested in job offers. If you'd like to ask me to come work on one of you
 
 Or you can contact me through [my portfolio page](https://voscarmv.github.io/portfolio/) 💼!
 
-## Cheers and Happy hacking! 
+## Cheers and Happy hacking! 😁👍💻
