@@ -10,7 +10,7 @@ You can follow my journey as a Microverse student on:
 
 I'm interested in job offers. If you'd like to ask me to come work on one of your projects, you can reach me on:
 
-- 🧑‍💼 [Linkedin](https://www.linkedin.com/in/oscar-mier/)
+- 👨‍💼 [Linkedin](https://www.linkedin.com/in/oscar-mier/)
 - ✌️ or [Angelist](https://angel.co/u/oscar-mier)
 
 Or you can contact me through [my portfolio page](https://voscarmv.github.io/portfolio/) 💼!
