@@ -2,9 +2,8 @@
 
 I'm Oscar Mier 👨‍💻 I currently looking for new job opportunities!
 
-You can follow my journey as a Microverse student on:
+You can follow my journey as a web developer on:
 
-- 🐦 [Twitter](https://twitter.com/VOscarMV)
 - ▶️ [Youtube](https://www.youtube.com/channel/UCLedI7TWQMIp5-ovGgMaa5g)
 - 🎥 and [Twitch](https://www.twitch.tv/voscarmv)
 
