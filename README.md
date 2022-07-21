@@ -1,6 +1,6 @@
 # `Hello, World! 🌎`
 
-I'm Oscar Mier 👨‍💻 I currently work as a [Technical Support Engineer](https://support.microverse.org/en/articles/2742981-what-is-the-tse-position) (a.k.a. Code Reviewer) at [Microverse Inc](https://www.microverse.org/).
+I'm Oscar Mier 👨‍💻 I currently looking for new job opportunities!
 
 You can follow my journey as a Microverse student on:
 
