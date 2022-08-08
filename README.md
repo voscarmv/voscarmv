@@ -16,4 +16,4 @@ If you'd like me to come work on one of your projects, you can reach me on:
 
 Or you can contact me through [my portfolio page](https://voscarmv.github.io/portfolio/) 💼!
 
-### Cheers and Happy hacking! 😁👍💻
+### Cheers and Happy Coding! 😁👍💻
