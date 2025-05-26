@@ -1,6 +1,6 @@
 # `Hello, World! 🌎`
 
-I'm Oscar Mier 👨‍💻 I currently looking for new job opportunities!
+Hi, I'm Oscar 👨‍💻 I'm looking for new job opportunities!
 
 You can follow my journey as a web developer on:
 
