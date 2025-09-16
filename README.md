@@ -45,4 +45,4 @@ I’m open to **new job opportunities** in:
 
 ---
 
-### Cheers and Happy Coding! 😁👍💻
+### Cheers and Happy Hacking! 😁👍💻
