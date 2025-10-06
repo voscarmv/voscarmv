@@ -1,6 +1,6 @@
 # Hello, World! 🌎
 
-Hi, I'm **Oscar Mier** 👨‍💻 — a **Web Developer, Career Coach, and Certified Hypnotherapist**.  
+Hi, I'm **Oscar** 👨‍💻 — a **Web Developer, Career Coach, and Certified Hypnotherapist**.  
 I’m passionate about building software, helping people land jobs, and guiding clients through personal transformation.  
 
 You’ll find me working at the intersection of **technology, teaching, and mental health**:  
