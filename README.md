@@ -44,5 +44,5 @@ I’m open to **new job opportunities** in:
 - ✉️ [Email me](mailto:voscarmv@gmail.com)  
 
 ---
-
+[![committers.top badge](https://user-badge.committers.top/mexico/voscarmv.svg)](https://user-badge.committers.top/mexico/voscarmv)
 ### Cheers and Happy Hacking! 😁👍💻
