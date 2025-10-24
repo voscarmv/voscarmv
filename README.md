@@ -45,4 +45,5 @@ I’m open to **new job opportunities** in:
 
 ---
 [![committers.top badge](https://user-badge.committers.top/mexico/voscarmv.svg)](https://user-badge.committers.top/mexico/voscarmv)
+[![An image of @voscarmv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/voscarmv)](https://holopin.io/@voscarmv)
 ### Cheers and Happy Hacking! 😁👍💻
