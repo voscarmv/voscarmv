@@ -10,7 +10,6 @@ I’m passionate about building software, helping people land jobs, and guiding 
 - 🛠 Contributed features to [facebook/Rapid](https://github.com/facebook/Rapid) during my **MLH Software Engineering Fellowship**.  
 - 📊 Designed a graduate tracking system for **2000+ students** using Airtable at Academlo.  
 - 🎮 Created a **2D VR learning platform** in Gather.town to teach JavaScript & HTML to 1000+ beginners.  
-- 📹 Producing **hypnotherapy videos** in English and Spanish on YouTube.  
 
 ---
 
